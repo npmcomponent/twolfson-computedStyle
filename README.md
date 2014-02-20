@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [twolfson/computedstyle](http://github.com/twolfson/computedstyle). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/twolfson-computedstyle`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # computedStyle [![Donate on Gittip](http://badgr.co/gittip/twolfson.png)](https://www.gittip.com/twolfson/)
 
 Cross-browser currentStyle/getComputedStyle implementation
